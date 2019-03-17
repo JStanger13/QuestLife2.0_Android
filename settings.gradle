@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='QuestLife2.0_Android'
